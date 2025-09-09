@@ -1,4 +1,4 @@
-8x8-Dadda-Multiplier
+8×8 Dadda Multiplier with Approximate 4:2 Compressor
 
 AN 8x8 Dadda multiplier is implemented using a approximate 4:2 compressor. The steps of implementation are as follows:
 1. Approximate region where approximate 4:2 compressor is used for reduction stage.
